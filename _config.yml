@@ -1,5 +1,5 @@
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast",  "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "Washington, D.C"
@@ -80,15 +80,14 @@ analytics:
 author:
   name             : "Chad Krilow"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Bioinformatics & Data Science Portfolio"
   location         : "Washington, D.C"
   email            : chadkrilow@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   facebook         :
-  github           : "Your Github"
-  gitlab           :
+  github           : "https://github.com/ckrilow"
   google_plus      :
   instagram        :
   linkedin         : "https://www.linkedin.com/in/chad-nicholas-k-97557a26/"
